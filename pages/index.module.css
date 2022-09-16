@@ -1,0 +1,685 @@
+@keyframes shadow-inset-center {
+  0% {
+    box-shadow: inset 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: inset 0 0 14px 0 rgb(0 0 0/50%);
+  }
+}
+.bgGradientImgIcon {
+  position: absolute;
+  top: -247px;
+  left: 568px;
+  width: 892px;
+  height: 945px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.bgImgIcon {
+  position: absolute;
+  top: 574px;
+  left: 600px;
+  width: 600px;
+  height: 1045px;
+}
+.takeYourFirst {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.cryptoInvesting {
+  margin: 0;
+}
+.separatedTheyLiveInBookmar,
+.takeYourFirstStepIntoSaf {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+}
+.takeYourFirstStepIntoSaf {
+  line-height: 130%;
+  font-weight: 900;
+}
+.separatedTheyLiveInBookmar {
+  font-size: 16px;
+  line-height: 150%;
+  color: #898ca9;
+}
+.textDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.textDiv1 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 45px);
+  line-height: 100%;
+  font-weight: 600;
+  display: inline-block;
+}
+.bttnDiv {
+  position: relative;
+  border-radius: 10px;
+  background: linear-gradient(225deg, #18c8ff, #933ffe);
+  width: 156px;
+  height: 56px;
+  flex-shrink: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+}
+.textBlockDiv {
+  position: absolute;
+  top: 80px;
+  left: 130px;
+  width: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 32px;
+}
+.block6Div,
+.imgIcon {
+  position: absolute;
+  top: 55px;
+  left: 730px;
+  width: 580px;
+  height: 420px;
+}
+.block6Div {
+  top: 3510px;
+  left: 0;
+  width: 1440px;
+  height: 531px;
+  display: none;
+  font-size: 50px;
+}
+.bgGradientImgIcon1 {
+  position: absolute;
+  top: -996.34px;
+  left: 748.93px;
+  width: 691.07px;
+  height: 1462.34px;
+  object-fit: cover;
+}
+.serverSpeedsB {
+  display: flex;
+  align-items: center;
+  width: 207px;
+  flex-shrink: 0;
+}
+.fastB,
+.server1B,
+.serverSpeedsB {
+  position: relative;
+  line-height: 150%;
+}
+.server1B {
+  display: flex;
+  color: #b982ff;
+  align-items: center;
+  width: 91px;
+  flex-shrink: 0;
+}
+.fastB {
+  flex: 1;
+  display: inline-block;
+  text-align: right;
+}
+.b,
+.smallGraphIcon {
+  position: relative;
+  flex-shrink: 0;
+}
+.b {
+  line-height: 150%;
+  display: flex;
+  color: #0dbb7c;
+  text-align: right;
+  align-items: center;
+  width: 100px;
+}
+.smallGraphIcon {
+  width: 214px;
+  height: 56px;
+}
+.textDiv2 {
+  position: relative;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.iconarrow {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.bttnButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.bttnButton3:hover,
+.bttnButton4:hover,
+.bttnButton:hover {
+  animation: 1s ease 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.lineDiv,
+.rowDiv {
+  align-self: stretch;
+}
+.rowDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.lineDiv {
+  position: relative;
+  border-top: 1px solid #2b2c3b;
+  box-sizing: border-box;
+  height: 1px;
+  flex-shrink: 0;
+}
+.textDiv3 {
+  position: relative;
+  line-height: 100%;
+  font-weight: 600;
+  display: inline-block;
+}
+.bttnDiv1 {
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  text-align: center;
+  font-size: 16px;
+}
+.smallGraphIcon2 {
+  position: relative;
+  width: 213px;
+  height: 56px;
+  flex-shrink: 0;
+}
+.rowDiv2 {
+  align-self: stretch;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.moderateB,
+.smallGraphIcon3 {
+  position: relative;
+  flex-shrink: 0;
+}
+.moderateB {
+  line-height: 150%;
+  display: flex;
+  color: #ff8282;
+  text-align: right;
+  align-items: center;
+  width: 100px;
+}
+.smallGraphIcon3 {
+  width: 215px;
+  height: 56px;
+}
+.bttnButton1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.tableDiv {
+  position: absolute;
+  top: -935px;
+  left: 151px;
+  border-radius: 25px;
+  background-color: #1e1e23;
+  border: 6px solid rgba(0, 0, 0, 0.6);
+  box-sizing: border-box;
+  width: 1192px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.block5Div {
+  position: absolute;
+  top: 2526px;
+  left: 0;
+  width: 1440px;
+  height: 984px;
+}
+.textDiv7 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 36px);
+  line-height: 100%;
+  font-weight: 600;
+  display: inline-block;
+}
+.bttnDiv4 {
+  position: absolute;
+  top: 1243px;
+  left: 693px;
+  width: 72px;
+  height: 16px;
+  text-align: center;
+  font-size: 16px;
+  color: #b982ff;
+}
+.iconarrow5 {
+  position: absolute;
+  height: 0.49%;
+  width: 1.67%;
+  top: 25.07%;
+  right: 44.44%;
+  bottom: 74.44%;
+  left: 53.89%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.logoDiv {
+  position: absolute;
+  top: 32px;
+  left: 130px;
+  width: 110px;
+  height: 16px;
+}
+.bttnButton2,
+.libraryButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.libraryButton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 14px;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.bttnButton2 {
+  position: relative;
+  width: 48px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.bttnDiv5,
+.bttnDiv6,
+.bttnDiv7,
+.bttnDiv8 {
+  position: relative;
+  width: 57px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.bttnDiv6,
+.bttnDiv7,
+.bttnDiv8 {
+  width: 43px;
+}
+.bttnDiv7,
+.bttnDiv8 {
+  width: 95px;
+}
+.bttnDiv8 {
+  width: 55px;
+}
+.menuDiv {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 213px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+.localtechnerds1Icon {
+  position: absolute;
+  top: 14px;
+  left: 25px;
+  width: 67.13px;
+  height: 54px;
+  object-fit: cover;
+}
+.textDiv8 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 26px);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.bttnButton3 {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 20px;
+  right: 238px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 96px;
+  height: 40px;
+  overflow: hidden;
+}
+.headerDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 80px;
+}
+.textDiv9 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 29px);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.bttnButton4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #0075ff;
+  position: absolute;
+  top: 20px;
+  right: 130px;
+  border-radius: 10px;
+  width: 96px;
+  height: 40px;
+  overflow: hidden;
+}
+.ellipseIcon,
+.ellipseIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 902px;
+  height: 858px;
+}
+.ellipseIcon1 {
+  top: 856px;
+  left: 774px;
+  width: 666px;
+  height: 952px;
+}
+.ellipseIcon2,
+.ellipseIcon3 {
+  position: absolute;
+  top: 1259px;
+  left: 789px;
+  width: 651px;
+  height: 618px;
+}
+.ellipseIcon3 {
+  top: 1097.67px;
+  left: 700.71px;
+  width: 739.29px;
+  height: 874.75px;
+}
+.ellipseIcon4,
+.ellipseIcon5 {
+  position: absolute;
+  top: 149px;
+  left: 578px;
+  width: 862px;
+  height: 1028px;
+}
+.ellipseIcon5 {
+  top: 167.48px;
+  left: 0;
+  width: 730.97px;
+  height: 564.7px;
+}
+.ellipseIcon6,
+.ellipseIcon7 {
+  position: absolute;
+  top: 502.31px;
+  left: 714.87px;
+  width: 679.35px;
+  height: 486.19px;
+}
+.ellipseIcon7 {
+  top: 154.52px;
+  left: 0;
+  width: 694.79px;
+  height: 617.82px;
+}
+.ellipseIcon8,
+.ellipseIcon9 {
+  position: absolute;
+  top: 123.48px;
+  left: 181.06px;
+  width: 1132.79px;
+  height: 761.11px;
+}
+.ellipseIcon9 {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1843.88px;
+}
+.ellipseIcon10,
+.ellipseIcon11,
+.ellipseIcon12,
+.textureIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1752.88px;
+}
+.ellipseIcon11,
+.ellipseIcon12,
+.textureIcon {
+  height: 1663.88px;
+}
+.ellipseIcon12,
+.textureIcon {
+  height: 1576.88px;
+}
+.textureIcon {
+  top: 115px;
+  height: 1096px;
+  object-fit: cover;
+  opacity: 0.2;
+  mix-blend-mode: overlay;
+}
+.whereCollaborationP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: 64px;
+}
+.localTechNerdsWhereCollabora {
+  position: absolute;
+  top: 154px;
+  left: 201px;
+  font-weight: 900;
+  display: inline-block;
+  font-size: 85px;
+}
+.starImgIcon {
+  position: absolute;
+  top: 322px;
+  left: 1172px;
+  width: 61px;
+  height: 60px;
+}
+.starImgIcon1,
+.starImgIcon2 {
+  position: absolute;
+  height: 0.93%;
+  width: 3.75%;
+  top: 12.32%;
+  right: 8.4%;
+  bottom: 86.75%;
+  left: 87.85%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.starImgIcon2 {
+  height: 1.5%;
+  width: 5.14%;
+  top: 3.3%;
+  right: 20.07%;
+  bottom: 95.2%;
+  left: 74.79%;
+}
+.withASingleGestureGainAc {
+  top: 544px;
+  left: 201px;
+  line-height: 150%;
+  color: #898ca9;
+}
+.textDiv10,
+.weGuaranteeYouTheFastestS,
+.withASingleGestureGainAc {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.weGuaranteeYouTheFastestS {
+  top: 1521px;
+  left: 315px;
+  line-height: 150%;
+  color: #898ca9;
+}
+.textDiv10 {
+  top: calc(50% - 12px);
+  left: calc(50% - 67px);
+  font-size: 24px;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+}
+.bttnButton5,
+.rectangleDiv {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.bttnButton5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: rgba(0, 133, 255, 0.91);
+  top: 632px;
+  right: 959px;
+  border-radius: 10px;
+  width: 280px;
+  height: 70px;
+  overflow: hidden;
+}
+.rectangleDiv {
+  top: 858px;
+  left: 86px;
+  border-radius: 34px;
+  background-color: rgba(81, 81, 81, 0.3);
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1254px;
+  height: 163px;
+}
+.image1Icon,
+.image2Icon,
+.image3Icon {
+  position: absolute;
+  top: 881px;
+  left: 355px;
+  width: 200px;
+  height: 119px;
+  object-fit: cover;
+}
+.image2Icon,
+.image3Icon {
+  left: 645px;
+  width: 150px;
+  height: 118px;
+}
+.image3Icon {
+  top: 880px;
+  left: 885px;
+  height: 119px;
+}
+.allCombinedIntoOnePlatform,
+.weOfferOptimizedServersFor {
+  position: absolute;
+  top: 1123px;
+  left: 245px;
+  font-size: 64px;
+  font-weight: 900;
+  display: inline-block;
+}
+.weOfferOptimizedServersFor {
+  top: 1424px;
+  left: 160px;
+  font-size: 55px;
+  line-height: 150%;
+  text-align: right;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+}
+.landingPageDiv {
+  position: relative;
+  background-color: #0b0b0f;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 4942px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  font-family: Inter;
+}
